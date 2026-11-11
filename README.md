@@ -32,6 +32,7 @@ A curated, action-first defense kit against scams, fraud and social engineering 
 - [🔐 Accounts They Target First](#-accounts-they-target-first)
 - [📱 Device & Network Hygiene](#-device--network-hygiene)
 - [🧓 Protect Your Parents & Grandparents](#-protect-your-parents--grandparents)
+- [🕵️ From the Fraud Playbook](#-from-the-fraud-playbook)
 - [⏰ First 72 Hours](#-first-72-hours)
 
 ---
@@ -175,6 +176,20 @@ Elders are targeted because they answer the phone, trust uniforms, and were rais
 - **[Eldercare Locator](https://eldercare.acl.gov)** — The federal directory of local aging services — the people who can help in person when a scam has already done damage. `Free`
 - 📋 **Be the trusted contact** — Banks and brokerages let an account holder name a trusted contact the firm can call when something looks wrong. Get named. It doesn't give you control of the money — it gives the bank permission to pause and phone you. `Free`
 - 📋 **The remote-access rule** — No legitimate company cold-calls about a virus, and no support agent needs a stranger to install AnyDesk or TeamViewer to "fix" it. If a caller asks for remote access, the call is the attack. `Free`
+
+## 🕵️ From the Fraud Playbook
+
+Fraudsters learn from shared playbooks — carding and "fraud bible" manuals circulating in criminal communities, covering carding, account takeover, synthetic identity and refund fraud. You don't need their instructions. You need their tells. These are the techniques, translated into defenses.
+
+- 📋 **The penny test** — Stolen cards get tested with tiny charges first: $0.50, $1, an unfamiliar "charity." Turn on transaction alerts for *every* amount, and treat one small mystery charge as a fire alarm — the card is compromised and the big charge is next. Freeze it now, not after the television ships. `Free`
+- 📋 **Screenshots prove nothing** — The playbooks include fake payment-receipt generators for Cash App, Zelle and Venmo. A screenshot of "payment sent" is a picture, not a payment. Release nothing until the money shows as settled inside your own app. `Free`
+- 📋 **The triangulation store** — A too-cheap shop takes your order and your card, then buys the item from a real retailer using *someone else's* stolen card and ships it to you. You got the goods; you also handed your card details to a fraud ring, and the chargeback fallout can still find you. Young domain + impossible price = walk away. `Free`
+- 📋 **Gift cards get drained off the rack** — Copied numbers and balance-checking bots drain gift cards before the recipient ever spends them. Buy cards kept behind the counter, or digital cards straight from the issuer; check packaging for tampering, spend promptly, and keep the receipt — it's your only recovery evidence. `Free`
+- 📋 **A reset email you didn't request is a probe** — Credential stuffing runs breached passwords against your accounts automatically. A password-reset or login-code email you didn't trigger means someone is testing your doors. Unique passwords and passkeys are what make the test fail. `Free`
+- 📋 **Never read a code to a caller** — Real-time phishing works like this: the attacker triggers a genuine login code to your phone, then calls posing as your bank and asks you to "confirm" it. The code is real; the caller is the thief. Codes get typed into websites by you — and told to no one, ever. `Free`
+- 📋 **Details are not identity** — Playbook social engineers open with *real* facts about you — your address, a recent purchase, part of a card number — bought cheap from breach data. It sounds like proof they're your bank. It proves only that your data leaked. Verify by callback anyway. `Free`
+- 📋 **"Refund method" gigs make you the fraudster** — Recruiters pay people to run return-and-refund "methods," receive packages, or move money through their accounts. The playbook's author takes a cut; the account holder takes the legal exposure. If the hustle needs your name on the transaction, you're not the employee — you're the evidence. `Free`
+- 📋 **Freeze your children's credit** — Synthetic-identity fraud is built on clean Social Security numbers, and children's are the cleanest: unused for years, unchecked for years. Request a protected-consumer freeze for your kids at all three bureaus. It's free, and it sleeps until they lift it as adults. `Free`
 
 ## ⏰ First 72 Hours
 
