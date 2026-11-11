@@ -1,0 +1,19 @@
+name: Link check
+
+# A defense list with dead links is a liability. Check weekly and on every PR.
+on:
+  schedule:
+    - cron: "0 13 * * 1" # Mondays 13:00 UTC
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  lychee:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check links
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: --no-progress --max-retries 2 --timeout 20 './**/*.md'
+          fail: true
