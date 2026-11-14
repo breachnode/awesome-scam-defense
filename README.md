@@ -6,7 +6,7 @@ A curated, action-first defense kit against scams, fraud and social engineering 
 
 **Breachnode Field Guide № 1.** Maintained by [Breachnode](https://github.com/Breachnode) — an independent cybersecurity threat researcher (hobbyist, self-directed) sharing defensive security research and knowledge.
 
-> **The border of this list:** prevention, in-the-moment verification, and emergency containment live here. The long institutional fight — credit disputes, bureau blocks, complaint escalations, data-broker removal — lives in the sister list, **Consumer Revenge Kit** *(in development)*. Veterans: your dedicated list is **Veteran Arsenal** *(in development)*.
+> **The border of this list:** prevention, in-the-moment verification, and emergency containment live here. The long institutional fight — credit disputes, bureau blocks, complaint escalations, data-broker removal — lives in the sister list, [**Consumer Revenge Kit**](https://github.com/breachnode/awesome-consumer-revenge-kit). Veterans: your dedicated list is [**Veteran Arsenal**](https://github.com/breachnode/awesome-veteran-arsenal).
 
 ## How to use this list
 
@@ -207,17 +207,18 @@ Something got through. Speed matters more than perfection — work this list top
 - **[IC3.gov](https://www.ic3.gov)** — The FBI's Internet Crime Complaint Center. File here for larger losses and anything involving impersonation of officials — these reports feed real investigations. `Free`
 - 📋 **File the police report** — Some banks and insurers require one before they'll move. Bring your timeline. A report number also adds weight to every dispute you file afterward. `Free`
 
-*Once the bleeding stops, the fight to repair your credit and records is a longer campaign — that's the sister list, **Consumer Revenge Kit** (in development).*
+*Once the bleeding stops, the fight to repair your credit and records is a longer campaign — that's the sister list, [**Consumer Revenge Kit**](https://github.com/breachnode/awesome-consumer-revenge-kit).*
 
 ---
 
 ## The series
 
-The Breachnode field guides: one suite, three focused lists, one rule — **actionable or it doesn't ship.**
+The Breachnode field guides: one suite, four focused lists, one rule — **actionable or it doesn't ship.**
 
 1. **Awesome Scam Defense** — this list. Prevention, verification, containment.
-2. **Consumer Revenge Kit** *(in development)* — disputes, complaints, opt-outs, and the rights they don't advertise.
-3. **Veteran Arsenal** *(in development)* — benefits, grants and money veterans have earned and routinely never claim.
+2. [**Consumer Revenge Kit**](https://github.com/breachnode/awesome-consumer-revenge-kit) — disputes, complaints, opt-outs, and the rights they don't advertise.
+3. [**Veteran Arsenal**](https://github.com/breachnode/awesome-veteran-arsenal) — benefits, grants and money veterans have earned and routinely never claim.
+4. [**Print Your Own**](https://github.com/breachnode/awesome-print-your-own) — grow what you keep: money management and investing, taught straight. Education only.
 
 ## License
 
