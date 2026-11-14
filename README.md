@@ -4,7 +4,7 @@
 
 A curated, action-first defense kit against scams, fraud and social engineering — the tools and plays a normal person can actually use: verify the thing in front of you, harden the accounts they target first, and know exactly what to do in the first 72 hours when one lands.
 
-**Breachnode Field Guide № 1.** Maintained by [Breachnode](https://github.com/Breachnode) — a U.S. Navy veteran and small-business operator who has fought fraud from the victim's side of the table.
+**Breachnode Field Guide № 1.** Maintained by [Breachnode](https://github.com/Breachnode) — an independent cybersecurity threat researcher (hobbyist, self-directed) sharing defensive security research and knowledge.
 
 > **The border of this list:** prevention, in-the-moment verification, and emergency containment live here. The long institutional fight — credit disputes, bureau blocks, complaint escalations, data-broker removal — lives in the sister list, **Consumer Revenge Kit** *(in development)*. Veterans: your dedicated list is **Veteran Arsenal** *(in development)*.
 
