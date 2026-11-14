@@ -43,6 +43,7 @@ Sixty seconds of checking beats sixty days of cleanup. Run the thing they sent y
 
 - **[VirusTotal](https://www.virustotal.com)** — Paste any link or upload any file; 70+ security scanners vote on it. If it's dirty, walk away. `Free`
 - **[urlscan.io](https://urlscan.io)** — See what a link *actually* does — screenshots, redirects, the real destination — without opening it yourself. `Free`
+- **[Scanify QR Code Checker](https://scanify.to/qr-code-checker)** — Upload a photo of a QR code from a parking meter, flyer or "missed delivery" note and see the link it really opens before your phone does. `Free`
 - **[Have I Been Pwned](https://haveibeenpwned.com)** — Check whether your email or phone number appeared in a known breach. If it has, "we've detected a problem with your account" texts are working from real data about you. `Free`
 - **[ICANN Lookup](https://lookup.icann.org)** — Check when the domain behind a "bank" or "support" site was registered. A bank site created last Tuesday is not a bank site. `Free`
 - **[ScamAdviser](https://www.scamadviser.com)** — Paste a shopping site and get a trust read built from registration age, hosting, and reports. Young site + luxury prices + no address = close the tab. `Free`
